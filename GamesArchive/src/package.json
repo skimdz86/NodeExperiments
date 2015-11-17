@@ -1,0 +1,19 @@
+{
+  "name": "games",
+  "version": "0.0.1",
+  "description": "Project for archive and free search games",
+  "main": "app.js",
+  "dependencies": {
+    "mongodb": "~1.4.34",
+    "restify":"4.0.3",
+	"mongojs":"1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Marco De Zorzi",
+  "license": "BSD",
+  "private": true
+}

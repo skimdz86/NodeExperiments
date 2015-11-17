@@ -1,0 +1,23 @@
+{
+	"_id":"",
+	"name":"",
+	"categories":[""],
+	"score":"",
+	"year":,
+	"platform":"",
+	"onDevelopment":,
+	"notes":""
+}
+
+es.
+
+{
+	"_id":"Z12334567",
+	"name":"The Witcher 3: Wild Hunt",
+	"categories":["GDR","Action"],
+	"score":"9.2",
+	"year":2015,
+	"platform":"PC",
+	"onDevelopment":false,
+	"notes":"Very good soundtrack"
+}
